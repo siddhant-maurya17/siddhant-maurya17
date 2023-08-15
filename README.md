@@ -17,17 +17,17 @@ I am eager to launch my career and make a positive impact in IT field.
 - Database: MySQL.
 - Programming Language: Java, Python.
 
-<div><div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidhthecoder&show_icons=true&locale=en&layout=compact" alt="sidhthecoder" />&nbsp;&nbsp;<img align="center"" src="https://github-readme-stats.vercel.app/api?username=sidhthecoder&show_icons=true&locale=en" alt="sidhthecoder"/></div>
+<div><div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhant-maurya17&show_icons=true&locale=en&layout=compact" alt="siddhant-maurya17" />&nbsp;&nbsp;<img align="center"" src="https://github-readme-stats.vercel.app/api?username=siddhant-maurya17&show_icons=true&locale=en" alt="siddhant-maurya17"/></div>
 <br/></div>
 <br/>
 <div></div>
 <br/>
-<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidhthecoder&" alt="sidhthecoder" /></div>
+<div><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhant-maurya17&" alt="siddhant-maurya17" /></div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sidhthecoder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sidhthecoder/" height="30" width="40" /></a>
-<a href="https://leetcode.com/sidthecoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sidthecoder" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/siddhant-maurya17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/siddhant-maurya17/" height="30" width="40" /></a>
+<a href="https://leetcode.com/siddhant-maurya17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/siddhant-maurya17" height="30" width="40" /></a>
  </a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
